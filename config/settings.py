@@ -21,7 +21,6 @@ class Settings:
 
         self.UPLOADS_PATH = os.getenv("UPLOADS_PATH")
         self.MODEL_PATH = os.getenv("MODEL_PATH")
-        self.FFMPEG_OATH = "C:\\Users\\20112\\Desktop\\projects\\GP\\back-end\\app"
 
 
 settings = Settings()
